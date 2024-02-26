@@ -28,4 +28,4 @@ I run the test by pressing up arrow two times to go to ```bash test.sh``` becaus
 ## Step 9
 
 ![step9](step9.png)
-I entered ```git add ListExamples.java```, pressed ```<return>```. Then I entered ```git commit -m "added 2 changes to ListExamples.java", pressed ```<return>```. Lastly, I pressed ```git push``` to push the changes onto github. 
+I entered ```git add ListExamples.java```, pressed ```<return>```. Then I entered ```git commit -m "added 2 changes to ListExamples.java"```, pressed ```<return>```. Lastly, I pressed ```git push``` to push the changes onto github. 
