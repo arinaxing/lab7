@@ -1,5 +1,5 @@
 ##Step 4##
-[!Image](step4.png)
+![Image](step4.png)
 
 ##Step 5##
 
