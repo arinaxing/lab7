@@ -16,9 +16,8 @@ To run the tests, I first ```cd lab7``` to enter the files in this directory. I 
 
 ## Step 7
 
-![step7](Step7.png)
 ![step7b](step7B.png)
-I entered ```vim ListExamples.java``` to open the file and create the edits. I used my downward arrow key to scroll to the line ```index1 += 1```. Then, using the right arrow keep I went to the first 1 and pressed ```i``` to enter insert mode. Then, I pressed ```<delete>``` and pressed ```2``` to change the ```1```. Then I pressed ```<esc>``` and pressed ```<:qw>``` to save and exit ```vim```.
+I entered ```vim ListExamples.java``` to open the file and create the edits. I used my downward arrow key 44 times to scroll to the line ```index1 += 1```. Then, using the right arrow key 12 times I went to the first 1 and pressed ```i``` to enter insert mode. Then, I pressed ```<delete>``` and pressed ```2``` to change the ```1```. Then I pressed ```<esc>``` and pressed ```<:wq>``` to save and exit ```vim```.
 
 ## Step 8
 
